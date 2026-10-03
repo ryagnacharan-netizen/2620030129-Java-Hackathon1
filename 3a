@@ -1,0 +1,17 @@
+public class Hackathon1a {
+    public static void main(String[] args){
+   
+    int vehicleNumber = 1232;
+    float WasteCollected = 20.45f;
+    int CollectionPoints = 5;
+    char vehicleStaus = 'A';
+    System.out.println("Vehicle Details:");
+    System.out.println("Vehicle Number: " + vehicleNumber);
+    System.out.println("Waste Collected: " + WasteCollected);
+    System.out.println("Collection Points: " + CollectionPoints);
+    System.out.println("Vehicle Status: " + vehicleStaus);
+    
+
+    }
+
+}
